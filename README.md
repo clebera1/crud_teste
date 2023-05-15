@@ -2,3 +2,5 @@
 com as tecnologias. Junto com isso estarei estudando tecnologias na faculdade e me preparando para o AZ-900
 
 Veremos onde isso vai dar
+
+#Esse projeto em questao fui atras de aprender algo relacionado a Node/backend utilizando também o express
